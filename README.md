@@ -97,8 +97,8 @@ This allow staff to add student, delete student, assign student to hostel room, 
 </p>
 
 ## Contributor
-VICRACE CHAN JIA LIN 
-GOH WAYSIANG
-TAN CARLSON
-MILTON CHOO XIN HONG
-TAN EONG SEANG 
+-   VICRACE CHAN JIA LIN
+-   GOH WAYSIANG
+-   TAN CARLSON
+-   MILTON CHOO XIN HONG
+-   TAN EONG SEANG 
