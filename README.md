@@ -43,12 +43,26 @@ This is a simple application created to manage the assignment of hostel rooms, p
     - Left GridView: Displays student information. Users can filter the view to show all students or search by criteria such as name, semester, room, or floor.
     - Right GridView: Shows hostel information. Users can search and filter to display all rooms, occupied rooms, or vacant rooms.
 
+## Project Setup
+1. **Set Up the C# Application**: Open the project in Visual Studio and create a separate class file for each `.cs` file provided. The program.cs should be the starting executed file.
+
+2. **Build the Project**: Compile the project to generate the executable. Locate the `.exe` file in the `bin` folder of your project directory.
+
+3. **Place the Text File**: Ensure that the *text file* is located in the same directory as the `.exe` file.
+
+4. **Run the Application**: Execute the `.exe` file to start the application.
+   
 ## Application Interface
 ### 1. Main Menu
-![main menu](img/main.png)
+<p align="center">
+  <img src="img/main.png" alt="main menu" width="45%">
+</p>
+
 
 ### 2. Register Admin
-![register](img/register.png)
+<p align="center">
+  <img src="img/register.png" alt="register" width="45%">
+</p>
 
 ### 3. Advanced / Normal Admin Interface
 <p align="center">
@@ -57,7 +71,9 @@ This is a simple application created to manage the assignment of hostel rooms, p
 </p>
 
 ### 4. Display Admin Info
-![admin info](img/admin-list.png)
+<p align="center">
+  <img src="img/admin-list.png" alt="admin info" width="45%">
+</p>
 
 ### 5. Display Student and Hostel Info
 Left gridview display student info and can search by criteria such as name, semester, room and floor.
@@ -77,7 +93,7 @@ This allow staff to add student, delete student, assign student to hostel room, 
 ### 7. Modify Student and Hostel Info
 <p align="center">
   <img src="img/modify.png" alt="Modify Student" width="45%">
-  <img src="img/modify-hotel" alt="Modify hostel" width="45%">
+  <img src="img/modify-hotel.png" alt="Modify hostel" width="45%">
 </p>
 
 ## Contributor
